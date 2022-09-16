@@ -35,37 +35,37 @@
             "id": 2,
             "name": "Ashe",
             "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ashe/full-portrait.png",
-            "function": "",
-            "description": "",
+            "function": "Dano",
+            "description": "Ashe dispara rapidamente o rifle da cintura ou usa a mira da arma para alvejar um disparo de alto dano. Ela explode inimigos arremessando dinamite e sua escopeta tem força suficiente para abrir distância entre ela e os adversários. E Ashe não está sozinha: ela pode chamar seu aliado ômnico Bob para entrar na briga quando surge a necessidade.",
             "weapons": [
                 {   
-                    "image": "",
-                    "name": "",
-                    "description": ""
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cca8472a3e966de2b9985cee492e527eac5063e9881797dded4ca1e32e292bc0.png",
+                    "name": "VÍBORA",
+                    "description": "Rifle semiautomático."
                 }
             ],
             "skills": [
                 {
-                    "image": "",
-                    "name": "",
-                    "description": ""
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e18f7b6e464f0cf34789babf7a76b7e1d851e62102dccfe10769bcf8716e5554.png",
+                    "name": "ESCOPETA",
+                    "description": "Causa uma explosão nos inimigos à frente e manda você para trás."
                 },
                 {
-                    "image": "",
-                    "name": "",
-                    "description": ""
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a326b202a821ab3e196d1faab6144460f470001b26a8b6f2ab96cb3af5f325b3.png",
+                    "name": "DINAMITE",
+                    "description": "Arremessa um explosivo que detona após um breve intervalo ou assim que é atingido por um tiro."
                 },
                 {
-                    "image": "",
-                    "name": "",
-                    "description": ""
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e788b12d476e896dac3831bbc0842fb3b4d07a89b3c337959d9a6cd6ea5a7df5.png",
+                    "name": "B.O.B.",
+                    "description": "Ativa Bob. Ele sai correndo e joga os inimigos para o alto, depois atira com os canhões de braço."
                 }
             ]
         },
         {   
             "id": 3,
             "name": "Baptiste",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/baptiste/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -96,7 +96,7 @@
         {   
             "id": 4,
             "name": "Bastion",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/bastion/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -127,7 +127,7 @@
         {   
             "id": 5,
             "name": "Brigitte",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/brigitte/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -158,7 +158,7 @@
         {   
             "id": 6,
             "name": "Cassidy",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/cassidy/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -189,7 +189,7 @@
         {   
             "id": 7,
             "name": "D.va",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/dva/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -220,7 +220,7 @@
         {   
             "id": 8,
             "name": "Doomfist",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/doomfist/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -251,7 +251,7 @@
         {   
             "id": 9,
             "name": "Echo",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/echo/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -282,7 +282,7 @@
         {   
             "id": 10,
             "name": "Genji",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/genji/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -313,7 +313,7 @@
         {   
             "id": 11,
             "name": "Hanzo",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/hanzo/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -344,7 +344,7 @@
         {   
             "id": 12,
             "name": "Junkrat",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/junkrat/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
@@ -375,7 +375,7 @@
         {   
             "id": 13,
             "name": "Lúcio",
-            "image": "",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/lucio/full-portrait.png",
             "function": "",
             "description": "",
             "weapons": [
