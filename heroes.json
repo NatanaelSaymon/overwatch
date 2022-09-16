@@ -1,0 +1,996 @@
+{
+    "heroes": [
+        {   
+            "id": 1,
+            "name": "Ana",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ana/full-portrait.png",
+            "function": "Suporte",
+            "description": "O arsenal versátil de Ana permite que ela afete heróis em todo o campo de batalha. Os tiros de seu Rifle Biótico e as Granadas Bióticas curam aliados e prejudicam inimigos. Sua arma de mão neutralizam alvos importantes e o Estimulante concede a um aliado um grande aumento de poder.",
+            "weapons": [
+                {   
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/efe0ebb135e87dc26b60f0d20500dcd7553ad121ab2b10cd4ffb5db17be9c977.png",
+                    "name": "RIFLE BIÓTICO",
+                    "description": "Rifle de longo alcance que cura aliados e causa dano aos inimigos."
+                }
+            ],
+            "skills": [
+                {
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/20707fd82265412fdc6d2353daa88ec7558cd71c89aa3ac6cf0e78bbbfcabd80.png",
+                    "name": "DARDO SONÍFERO",
+                    "description": "Dispara um dardo que faz o inimigo dormir."
+                },
+                {
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c8190b234bf0a0e28eecffe162d0c942e6b8656e95f4688c6ca3b025fa5a487d.png",
+                    "name": "GRANADA BIÓTICA",
+                    "description": "Lança uma granada que cura e aumenta a capacidade de cura em aliados, enquanto causa dano e impede que inimigos sejam curados."
+                },
+                {
+                    "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6fda18b343f3fd0e8dc50fa5a91589e1ca9ed7471a354f61dfc9f22b27b19497.png",
+                    "name": "ESTIMULANTE",
+                    "description": "Aumenta o dano causado por um aliado e reduz o dano recebido."
+                }
+            ]
+        },
+        {   
+            "id": 2,
+            "name": "Ashe",
+            "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ashe/full-portrait.png",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 3,
+            "name": "Baptiste",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 4,
+            "name": "Bastion",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 5,
+            "name": "Brigitte",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 6,
+            "name": "Cassidy",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 7,
+            "name": "D.va",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 8,
+            "name": "Doomfist",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 9,
+            "name": "Echo",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 10,
+            "name": "Genji",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 11,
+            "name": "Hanzo",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 12,
+            "name": "Junkrat",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 13,
+            "name": "Lúcio",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 14,
+            "name": "Mei",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 15,
+            "name": "Mercy",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 16,
+            "name": "Moira",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 17,
+            "name": "Orisa",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 18,
+            "name": "Pharah",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 19,
+            "name": "Reaper",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 20,
+            "name": "Reinhardt",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 21,
+            "name": "Roadhog",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 22,
+            "name": "Sigma",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 23,
+            "name": "Soldado: 76",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 24,
+            "name": "Sombra",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 25,
+            "name": "Symmetra",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 26,
+            "name": "Torbjorn",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 27,
+            "name": "Tracer",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 28,
+            "name": "Widowmaker",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 29,
+            "name": "Winston",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 30,
+            "name": "Wrecking Ball",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 31,
+            "name": "Zarya",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        },
+        {   
+            "id": 32,
+            "name": "Zenyatta",
+            "image": "",
+            "function": "",
+            "description": "",
+            "weapons": [
+                {   
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "skills": [
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
